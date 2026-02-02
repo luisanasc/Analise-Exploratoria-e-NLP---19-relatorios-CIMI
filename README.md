@@ -1,2 +1,2 @@
-﻿# Analise-Exploratoria-e-NLP---19-Relatorios-CIMI
+# Analise Exploratoria e NLP - 19 Relatorios CIMI
 
